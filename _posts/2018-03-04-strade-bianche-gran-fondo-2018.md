@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  'Strade Bianche Gran Fondo 2018'
 date:   2018-03-04
 instagram_id:
@@ -11,7 +11,7 @@ post_image_small: assets/2018-03/2018-03-04-strade-bianche-gran-fondo-2018_thumb
 
 When I signed up for Etape du Tour last October–and the 28-week training plan that goes along with it–I knew a few interim cycling events would need to happen, to maintain training momentum and to get me used to negotiating mass starts and crowded roads.
 
-Reading my friend Gerry's race report of Strade Bianche 2017 last March, with its epic black and white photos of rain-soaked, mud-encrusted riders, had stuck with me. The description was 139km, 1300m elevation gain. To date, my longest ride (which included lunch, coffee, & photo stops) was 138 km, so this seemed a very doable distance. All I wanted was to prove that I could survive riding the distance without a lunch break. 
+Reading my friend Gerry's race report of Strade Bianche 2017 last March, with its epic black and white photos of rain-soaked, mud-encrusted riders, had stuck with me. The description was 139km, 1300m elevation gain. To date, my longest ride (which included lunch, coffee, & photo stops) was 138 km, so this seemed a very doable distance. All I wanted was to prove that I could survive riding the distance without a lunch break.
 
 But it was also the same day as the Semi-marathon de Paris, a long-dreamed-for event with a course that passes within 200m of our apartment. I had been semi-seriously doing it, figuring the training would give me great aerobic fitness for EdT.  Then I learned that the odd sensation in my left groin was not another soft-tissue injury but early-stage hip arthritis. Suddenly the choice was easy: to Siena we would go (I registered my husband as well as myself)
 
