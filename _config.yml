@@ -21,8 +21,8 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://limegimlet.github.io"
-baseurl                  : "/blog"
-repository               : "limegimlet/blog"
+baseurl                  : #""
+repository               : "limegimlet/limegimlet.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
