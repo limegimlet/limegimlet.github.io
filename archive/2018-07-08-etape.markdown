@@ -1,0 +1,65 @@
+---
+#layout: post
+title:  "etape"
+date:   2018-07-24 10:45:24 +0100
+categories: mountains
+---
+
+At last, race day, and weather gods were benevolent: blue skies, minimal wind, and predicted high of around 30 - hot, but far from the hottest it can be in the alps in July.
+
+Waiting in the pens was less painful than described, except for losing Miguel in the scramble to find the entrance to our pen.
+
+Had a high-5 with Didi as I crossed the start line! He had a crazed look, probably from having already high-5'd 5000 or so riders.
+
+## The warm-up to the first col (40k)
+
+Having learned a painful lesson in Munster, I kept things calm going around Lac d'Annecy and really treating it was a long warm-up lap. Got into a conversation with another fellow from the Paris region, and as he rides the Longchamps track on the weekends he was familiar with our club.
+
+At Talloires, around 25km in, we hit the wall that marked the start of the first, unattributed, col of the day. It's only a few KM but it's an abrupt shift from pancake-flat lakeside riding, and sure enough there were already folks on the sidewalk futzing with fallen chains.
+
+Continuing the climb to towards the chateau, I was gratified at how much easier it felt than the first time I rode it back in early May. On the other hand was a bit demoralizing when the Brit MAMIL I'd been chatting with sped away during the final section, while saying in that understated Brit way that it was beginning to get a bit steepish.
+
+Along the road were lots of cheering spectators, and lots of Allez-les-filles, which interestingly enough every time I heard it during the race, inevitably a male voice would pop up with "Et pour les gars, rien ?". I have some thoughts on this, but that's for another post.
+
+At the top of the climb there's fabulous easy descent into Thônes. Conveniently, there was a beefy Luxembourgeois cranking out some watts, so I tucked in behind him. It was so fun whizzing along that I had to remind myself that descents were for recovery, not wattage, regardless what Monsieur le Brick Shithouse was doing up front.
+
+The road began ever so slightly to go up as we wove through the village, and everyone as if on cue slowed right down, dragging our figurative feet so to speak as the first (and longest) col climb to Croix-Fry approached.
+
+## Col de la Col Fry - 11km, 7.5% avg grade
+
+This climb is nicely broken up into 2 halves by the town of Manigod at km 5???? The first half is relatively gently curving 6-7% grades, all while overlooking a valley that's straight out of The Sound of Music.
+
+A nice breather in Manigod, with a lovely 100m of flatter road + deep shade, plus some angelic person had suspended a garden hose from his balcony, but unfortunatly I was too far on the opposite side of the road to benefit much. The flat continued in the sun, and with a final goodbye at the enormous cow-speckled green valley the road turned sharply left into the ouchier 2nd half.
+
+This began with a bunch of steep hairpins in the 9-10% range, all in sun.
+
+Non, non, on n'est paaaas fatigueeee (no, no we are not tired) q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+![Typical riding in the Chevreuse]({{"/assets/images/chevreuse.jpg"|absolute_url}})
+
+And for those of you for whom the title of this post made you think of a certain hit song from the late 80s, here's your reward for reading to the end of the post.
+
+<iframe src="https://open.spotify.com/embed/track/369JKykZZr1qzv9pg5zAhz" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media“&view=coverart&theme=white"></iframe>
+
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[StravistiX]: https://chrome.google.com/webstore/detail/stravistix-for-strava/dhiaggccakkgdfcadnklkbljcgicpckn
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

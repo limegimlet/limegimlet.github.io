@@ -4,5 +4,15 @@
 
 @charset "utf-8";
 
+iframe {
+        display: block;
+        }
+
+img + em {
+        font-size: small;
+        color: inherit;
+        display: block;
+        }
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
