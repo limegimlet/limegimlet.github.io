@@ -2,11 +2,8 @@
 layout: archive
 ---
 
-<<<<<<< HEAD
 Hello world, again.
 
-=======
->>>>>>> f820df4f31be482de86b8514b3f13c436d287e35
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
@@ -14,7 +11,6 @@ Hello world, again.
 {% endfor %}
 
 {% include paginator.html %}
-<<<<<<< HEAD
 
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
@@ -24,5 +20,3 @@ Hello world, again.
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
-=======
->>>>>>> f820df4f31be482de86b8514b3f13c436d287e35
