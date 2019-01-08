@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Learning, unsupervised"
 title_separator          : "|"
 name                     : "Sarah Hosking"
-description              : "Teaching myself to train my mind, my body, and the odd dataset as part of a mid-life career change."
+description              : "Teaching myself to train my mind, my body, and datasets as part of a mid-life career change."
 url                      : "https://limegimlet.github.io"
 baseurl                  : #""
 repository               : "limegimlet/limegimlet.github.io"
