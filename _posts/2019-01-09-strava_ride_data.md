@@ -11,9 +11,9 @@ After spending the past 2.5 months madly finishing up projects, cycling took a s
 
 Now that the projects are done (or at least at v1), I've been itching to look at my Strava data again, this time with Python. I've used R to look at it in the past, so I could plot in Ggplot2.
 
-Now I'm more at home plotting in python. Here are some simple overview plots using Pandas, namely `df.plot(kind = 'barh')`.  To be honest, I still prefer Ggplot2, ev
+Now I'm more at home plotting in python. Here are some simple overview plots using variations on Pandas `df.plot(kind = 'barh')`.
 
-For clarity's sake, I've put the code to get, clean & plot the data below the plots.
+For the sake of clarity, you'll find all the code to get, clean & plot Strava data [after the plots](#code).
 
 ### How much time did I spend on the bike?
 
