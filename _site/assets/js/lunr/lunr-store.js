@@ -4,8 +4,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/hello-world/",
         "teaser":null},{
-        "title": "This is my 2nd post of 2019",
-        "excerpt":"Testing export from jupyter notebookblah blah blah# here is some code#Open the my_file to usemy_file = open(my_acts,'w')#Loop extracting data. Remember it comes in pagesend_found = Falsepage_num = 1strava_df = pd.DataFrame(columns = cols)#Main loop - Getting all activitieswhile (end_found == False): #Do a HTTP Get - First form the full URL...","categories": [],
+        "title": "Strava ride data",
+        "excerpt":"After spending the past 2.5 months madly finishing up projects, cycling took a serious back seat. Which is OK, because as you will see, cycling took the driver’s seat for much of 2018.Now that the projects are done (or at least at v1), I’ve been itching to look at my...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/strava_data/",
+        "url": "http://localhost:4000/strava_ride_data/",
         "teaser":null}]
