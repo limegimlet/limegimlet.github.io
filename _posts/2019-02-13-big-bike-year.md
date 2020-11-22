@@ -1,7 +1,7 @@
 ---
 #layout: post
 title:  "How I trained for EdT 2018"
-date:   2019-02-13 10:00:00 +0100
+date:   2018-12-31 10:00:00 +0100
 categories: ['etape', 'cycling', 'training']
 ---
 
