@@ -1,6 +1,6 @@
 ---
 #layout: post
-title:  'Get Strava ride data with Python & Pandas'
+title:  'Strava ride data with Python & Pandas'
 classes: wide
 date:   2019-01-09
 instagram_id:
@@ -9,11 +9,14 @@ tags: ['python', 'pandas', 'strava']
 ---
 After spending the past 2.5 months madly finishing up projects, cycling took a serious back seat. Which is OK, because as you will see, cycling took the driver's seat for much of 2018.
 
-Now that the projects are done (or at least at v1), I've been itching to look at my Strava data again, this time with Python. I've used R to look at it in the past, so I could plot in Ggplot2.
+Now that the projects are done (or at least at v1), I've been itching to look at my Strava data again, this time with Python. In fact, I've been itching to look at my ride data a helluva lot more than to go riding.
 
-Now I'm more at home plotting in python. Here are some simple overview plots using variations on Pandas `df.plot(kind = 'barh')`.
+That's a bit of a problem, fitness-wise, although it gave me even more incentive to connect to the Strava API.
+
+Here are some simple overview plots using variations on Pandas' `df.plot(kind = 'barh')` that show my annual progressions for some ride stats.
 
 For the sake of clarity, you'll find all the code to get, clean & plot Strava data [after the plots](#code).
+
 
 ### How much time did I spend on the bike?
 
